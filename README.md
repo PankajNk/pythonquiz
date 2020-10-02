@@ -1,2 +1,3 @@
 
-we are creating quiz competition using python in console based ,you just need to have basic understanding of python
+Ideawas to creating quiz competition using python in console based ,
+You just need to have basic understanding of python
